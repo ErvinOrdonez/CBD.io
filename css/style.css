@@ -1,6 +1,17 @@
+body{
+
+}
 .gum{
   color:red;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px
+
 }
 .box{
   width: 200px
+ font-family: 'Bebas Neue', cursive;
+
+}
+.table1{
+  width: 100vw;
 }
