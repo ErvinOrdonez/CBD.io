@@ -1,11 +1,10 @@
-body{
-
+*{
+  /* border: 1px solid red; */
 }
 .gum{
   color:red;
   font-family: 'Bebas Neue', cursive;
-  font-size: 25px
-
+  font-size: 30px;
 }
 .box{
   width: 200px
@@ -13,5 +12,21 @@ body{
 
 }
 .table1{
-  width: 100vw;
+  width: 100%;
+}
+.table2{
+  max-width: 100%;
+}
+.table3{
+  align-content: center;
+}
+tr{
+  font-size: 25px;
+  color:red;
+  font-family: 'Bebas Neue', cursive;
+}
+img {
+  max-width: 100%;
+  color:red;
+  font-family: 'Bebas Neue', cursive;
 }
